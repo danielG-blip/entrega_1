@@ -1,7 +1,14 @@
-Nombre del proyecto
-Tecnologias usadas
-Problematica que resuelve
-Como poner el codigo en marcha
+Nombre del proyecto:
+Luking Store
+
+Tecnologias usadas:
+
+
+Problematica que resuelve:
+
+
+Como poner el codigo en marcha:
+
 
 Integrantes del equipo:
 Juan Daniel Giraldo Ocampo
